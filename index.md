@@ -2,7 +2,7 @@
 
 ---
 
-### Northwestern Football Yearbook Story 
+### Northwestern Football Yearbook Story- A longform profile of former NU cornerback Montre Hartage and his rise from unheralded recruit to team captain
 
 <p>
   <a href="/pdf/May01.pdf" target="_blank"> Read the full article </a>
@@ -12,7 +12,7 @@
 
 ---
 
-### Walter Athletic Center Story (NACDA Magazine)
+### Walter Athletic Center Story (NACDA Magazine)- An inside look at how Northwestern's $40 million athletic facility came together 
 <p>
   <a href="/pdf/WACsample.pdf" target="_blank"> Read the full article </a>
   </p>
@@ -21,7 +21,7 @@
 
 ---
 
-### Sustainability at Northwestern Story & Website
+### Sustainability at Northwestern Story & Website- A website/story, created along with two other people, covering NU's sustainability initiatives
 <p>
 <a href="https://www.medillnews847.com/jour320/fall18/final/nutrash/index.html?fbclid=IwAR2vGl_eM6Usv3rIf30LUy13Rb6ILrs5cMPutuburBBpbQ2hqK0-DMOC-5Y" target="_blank"> Visit the site </a>
   </p>
