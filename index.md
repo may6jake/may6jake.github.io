@@ -13,8 +13,8 @@ A longform profile of NU cornerback Montre Hartage and his rise from unheralded 
 
 ---
 
-### Statement of Intent: A Look at Northwestern's Walter Athletic Center (NACDA Magazine)
-An inside look at how Northwestern's $40 million athletic facility came together 
+### Statement of Intent: The Walter Athletic Center at Northwestern Univeristy (NACDA Magazine)
+An inside look at how Northwestern's brand new, $40 million athletic facility came together 
 <p>
   <a href="/pdf/WACsample.pdf" target="_blank"> Read the full article </a>
   </p>
