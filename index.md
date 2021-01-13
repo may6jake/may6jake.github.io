@@ -1,4 +1,4 @@
-## Work Samples
+## Print & Longform Samples
 
 ---
 
@@ -50,7 +50,7 @@ A website/story, created along with two other people, covering NU's sustainabili
   </li>
   <li>
 <a href="https://www.si.com/nfl/2019/10/17/titans-marcus-mariota-mike-vrabel-chargers-philip-rivers-brock-osweiler" target="_blank"> Chargers vs. Titans Week 7 Preview (SI.com)</a>
-    - This NFL newsletter previews a key Week 7 game and includes a fun homage to a popular retiring player at the end
+    - This NFL newsletter previews a key Week 7 game and includes a fun homage to a popular retiring player
   </li>
   <li>
 <a href= "https://www.si.com/college/2019/10/16/march-madness-ncaa-tournament-droughts" target="_blank"> College Basketball March Madness Droughts (SI.com)</a>
@@ -72,7 +72,7 @@ A website/story, created along with two other people, covering NU's sustainabili
   </li>
   <li>
 <a href="https://www.si.com/extra-mustard/2019/11/22/ten-worst-fans-to-sit-next-to-at-a-game" target"_blank"> The 10 Worst Fans to Sit Next to (Extra Mustard)</a>
-    - Some humor writing about the worst PEOPLE you run into at games
+    - Some humor writing about the worst people you run into at games
   </li>
  </ul>
  
