@@ -2,8 +2,8 @@
 
 ---
 
-### Northwestern Football Yearbook Story
-A longform profile of former NU cornerback Montre Hartage and his rise from unheralded recruit to key starter
+### "True" (Northwestern Football Yearbook)
+A longform profile of NU cornerback Montre Hartage and his rise from unheralded recruit to key starter
 
 <p>
   <a href="/pdf/May01.pdf" target="_blank"> Read the full article </a>
@@ -13,7 +13,7 @@ A longform profile of former NU cornerback Montre Hartage and his rise from unhe
 
 ---
 
-### Walter Athletic Center Story (NACDA Magazine)
+### Statement of Intent: A Look at Northwestern's Walter Athletic Center (NACDA Magazine)
 An inside look at how Northwestern's $40 million athletic facility came together 
 <p>
   <a href="/pdf/WACsample.pdf" target="_blank"> Read the full article </a>
