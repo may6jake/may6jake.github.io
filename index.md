@@ -37,7 +37,8 @@ A website/story, created along with two other people, covering NU's sustainabili
 
 <ul>
   <li>
-<a href="https://www.metrowestdailynews.com/story/sports/high-school/2020/09/21/familiar-face-millis-high-alum-olivia-zitoli-takes-over-as-head-girls-soccer-coach/42902257/" target="_blank"> Profile of Coach Olivia Zitoli (MetroWest Daily News)</a>
+<a href="https://www.metrowestdailynews.com/story/sports/high-school/2020/09/21/familiar-face-millis-high-alum-olivia-zitoli-takes-over-as-head-girls-soccer-coach/42902257/" target="_blank"> Profile of Coach Olivia Zitoli (MetroWest Daily News)</a> 
+    A former collegiate soccer player returns to her HS alma mater and becomes head coach
   </li>
   <li>
 <a href="https://www.si.com/nba/2019/11/28/thanksgiving-for-each-team" target="_blank"> NBA Thanksgiving (SI.com)</a>
