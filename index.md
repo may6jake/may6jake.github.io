@@ -67,17 +67,17 @@ A website/story, created along with two other people covering NU's sustainabilit
    - Profile of a local MA author to coincide with release of his second non-fiction book
   </li>
   <li>
-<a href="https://www.southcoasttoday.com/photogallery/nb/20180823/news/817009997/PH/1" target"_blank"> Sea Lab Celebrates 50 Years (The Standard-Times) target="_blank"> Sea Lab Celebrates 50 Years (The Standard-Times)</a>
+<a href="https://www.southcoasttoday.com/photogallery/nb/20180823/news/817009997/PH/1" target="_blank"> Sea Lab Celebrates 50 Years (The Standard-Times)</a>
     - A look at a summer program in Southeast MA centered around teaching kids about the ocean
   </li>
   <li>
-<a href="https://www.si.com/extra-mustard/2019/11/22/ten-worst-fans-to-sit-next-to-at-a-game" target="_blank"> The 10 Worst Fans to Sit Next to (Extra Mustard</a>
+<a href="https://www.si.com/extra-mustard/2019/11/22/ten-worst-fans-to-sit-next-to-at-a-game" target="_blank"> The 10 Worst Fans to Sit Next to (Extra Mustard)</a>
     - Some humor writing about the worst people you run into at games
   </li>
 </ul>
- 
- ---
- ### Other Links  
+
+---
+### Other Links  
 
 <ul>
   <li>
