@@ -24,7 +24,7 @@ An inside look at how Northwestern's brand new, $40 million athletic facility ca
 ---
 
 ### Sustainability at Northwestern Story & Website
-A website/story, created along with two other people, covering NU's sustainability initiatives
+A website/story, created along with two other people covering NU's sustainability initiatives
 <p>
 <a href="https://www.medillnews847.com/jour320/fall18/final/nutrash/index.html?fbclid=IwAR2vGl_eM6Usv3rIf30LUy13Rb6ILrs5cMPutuburBBpbQ2hqK0-DMOC-5Y" target="_blank"> Visit the site </a>
   </p>
@@ -63,18 +63,18 @@ A website/story, created along with two other people, covering NU's sustainabili
 
 <ul>
   <li>
-<a href="https://www.metrowestdailynews.com/story/entertainment/books/2020/11/30/natick-author-david-ostrowsky-looks-back-pro-sports-1993-his-second-book/6465740002/" target"_blank"> Author Profile - David Ostrowsky (MetroWest Daily News)</a>
-    - Profile of a local MA author to coincide with release of his second non-fiction book
+<a href="https://www.metrowestdailynews.com/story/entertainment/books/2020/11/30/natick-author-david-ostrowsky-looks-back-pro-sports-1993-his-second-book/6465740002/" target="_blank"> Author Profile - David Ostrowsky (MetroWest Daily News)</a> 
+   - Profile of a local MA author to coincide with release of his second non-fiction book
   </li>
   <li>
-<a href="https://www.southcoasttoday.com/photogallery/nb/20180823/news/817009997/PH/1" target"_blank"> Sea Lab Celebrates 50 Years (The Standard-Times) </a>
+<a href="https://www.southcoasttoday.com/photogallery/nb/20180823/news/817009997/PH/1" target"_blank"> Sea Lab Celebrates 50 Years (The Standard-Times) target="_blank"> Sea Lab Celebrates 50 Years (The Standard-Times)</a>
     - A look at a summer program in Southeast MA centered around teaching kids about the ocean
   </li>
   <li>
-<a href="https://www.si.com/extra-mustard/2019/11/22/ten-worst-fans-to-sit-next-to-at-a-game" target"_blank"> The 10 Worst Fans to Sit Next to (Extra Mustard)</a>
+<a href="https://www.si.com/extra-mustard/2019/11/22/ten-worst-fans-to-sit-next-to-at-a-game" target="_blank"> The 10 Worst Fans to Sit Next to (Extra Mustard</a>
     - Some humor writing about the worst people you run into at games
   </li>
- </ul>
+</ul>
  
  ---
  ### Other Links 
