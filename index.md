@@ -77,7 +77,7 @@ A website/story, created along with two other people covering NU's sustainabilit
 </ul>
  
  ---
- ### Other Links 
+ ### Other Links  
 
 <ul>
   <li>
