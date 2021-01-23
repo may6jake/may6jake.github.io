@@ -1,3 +1,17 @@
+### Recent Writing (Halo)
+<ul>
+  <li>
+<a href="https://info.halo.science/pepsico-case-study" target="_blank"> PepsiCo Case Study</a> 
+   - A recap of PepsiCo's search for bio-based films for use in dry goods packaging
+  </li>
+  <li>
+<a href="https://info.halo.science/bayer-crop-science-case-study" target="_blank"> Bayer Case Study</a>
+    - A breakdown of Bayer's Grants4Ag program finding innovative ways to protect crops
+  </li>
+</ul>
+
+---
+
 ## Print & Longform Samples
 
 ---
