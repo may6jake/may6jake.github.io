@@ -7,7 +7,7 @@
   </li>
 
   <li>
-<a href="/pdf/Halo Newsletter 2/10" target="_blank"> February 10, 2021 Newsletter </a>
+<a href="/pdf/Halo Newsletter 2:10" target="_blank"> February 10, 2021 Newsletter </a>
     - Our weekly newsletter for packaging experts
   </li>
 
