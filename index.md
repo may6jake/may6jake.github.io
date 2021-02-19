@@ -1,24 +1,26 @@
 ### Recent Writing (Halo)
 <ul>
-  <li>
     
 ### Blog Posts
+   <li>  
 <a href="https://www.halo.science/blog/author/jacob-may/" target="_blank"> Industry Catalyst Q&As</a> 
     - My most recent interviews with packaging, innovation and circular economy experts
   </li>
-  <li>
   
 ### Email Copy
+  <li>
 <a href="/pdf/Halo Newsletter 2/10" target="_blank"> February 10, 2021 Newsletter </a>
     - Our weekly newsletter for packaging experts
   </li>
-  <li>
   
 ### Case Studies
+  <li>
 <a href="https://info.halo.science/pepsico-case-study" target="_blank"> PepsiCo Case Study</a> - A recap of PepsiCo's search for bio-based films for use in dry goods packaging
-
+  </li>
+  <li>
 <a href="https://info.halo.science/bayer-crop-science-case-study" target="_blank"> Bayer Case Study</a> - A breakdown of Bayer's Grants4Ag program finding innovative ways to protect crops
   </li>
+
 </ul>
 
 ---
