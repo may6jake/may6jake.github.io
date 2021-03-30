@@ -18,6 +18,11 @@
 <a href="https://info.halo.science/bayer-crop-science-case-study" target="_blank"> Bayer Case Study</a> - A breakdown of Bayer's Grants4Ag program finding innovative ways to protect crops
   </li>
 
+<li>
+ <a href="/pdf/short-form copy samples (CC).pdf" target="_blank"> Short-Form Copy Samples </a>
+    - A PDF with text snippets from social, email, landing page and similar copy
+  </li>
+  
 </ul>
 
 ---
